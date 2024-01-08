@@ -13,6 +13,6 @@ Welcome to my Snake game implemented in Python using the Pygame library! This cl
 3. Run the snake.py script to start the game.
 
 # Requirements:
-Make sure you have Python3 and the Pygame library installed.
+Python3 with Pygame library installed.
 
 **Happy gaming!**
