@@ -22,11 +22,11 @@ snake_speed= 15
 font_style = pygame.font.SysFont("comicsansms", 30)
 score_font = pygame.font.SysFont("bahnschrift", 30)
 
-pygame.mixer.music.load("C:\\Users\\Lenovo\\Desktop\\Snake Game - Theme Song.mp3")
+pygame.mixer.music.load("./Snake Game - Theme Song.mp3")
 pygame.mixer.music.play(-1)
 
-eating_sound = pygame.mixer.Sound("C:\\Users\\Lenovo\\Desktop\\rattles-80176.mp3")
-game_over_sound = pygame.mixer.Sound("C:\\Users\\Lenovo\\Desktop\\negative_beeps-6008.mp3")
+eating_sound = pygame.mixer.Sound("./rattles-80176.mp3")
+game_over_sound = pygame.mixer.Sound("./negative_beeps-6008.mp3")
 
 def score(s):
     val=score_font.render("Your Score: " + str(s), True, red)
