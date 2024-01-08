@@ -7,15 +7,14 @@ Welcome to my Snake game implemented in Python using the Pygame library! This cl
 3. Eat the red apples to grow longer and increase your score.
 4. Avoid collisions with the walls and the snake's own body.
 
-# How to Play:
-
-1. Install Python 3: If you don't have Python 3 installed, you can download it from python.org and follow the installation instructions for your operating system.
-2. Install Pygame: In your command prompt or terminal, type pip install pygame
-3. Clone or Download the Repository to your local machine
-4. Navigate to the directory where you have cloned or extracted the repository.
-5. Run the snake.py script to start the game.
-
 # Requirements:
 Python3 with Pygame library installed.
+
+# How to Play:
+1. Install Python 3: If you don't have Python 3 installed, you can download it from python.org and follow the installation instructions for your operating system.
+2. Install Pygame: In your command prompt or terminal, type ```pip install pygame```
+3. Clone or download the Repository to your local machine
+4. Navigate to the directory where you have cloned or extracted the repository
+5. Run the **snake.py** script to start the game
 
 **Happy gaming!**
