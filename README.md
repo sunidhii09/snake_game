@@ -8,7 +8,7 @@ Welcome to my Snake game implemented in Python using the Pygame library! This cl
 4. Avoid collisions with the walls and the snake's own body.
 
 # Requirements:
-Python3 with Pygame library installed.
+Python 3 with Pygame library installed.
 
 # How to Play:
 1. Install Python 3: If you don't have Python 3 installed, you can download it from python.org and follow the installation instructions for your operating system.
